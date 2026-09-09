@@ -81,7 +81,7 @@ Proyecto final del curso **Ruta de Transformación** demostrando mis competencia
 
 ## 📈 Mi Viaje en QA
 
-Como **QA Junior**, reconozco que estoy en una etapa de aprendizaje y crecimiento. Sin embargo, traigo consigo:
+Como **QA Junior**, reconozco que estoy en una etapa de aprendizaje y crecimiento. Sin embargo, traigo conmigo:
 
 - 💪 Una base sólida de análisis y pensamiento crítico
 - 💪 Experiencia en gestionar procesos complejos y exigentes
