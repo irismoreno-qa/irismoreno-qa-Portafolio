@@ -39,6 +39,8 @@ Proyecto final del curso **Ruta de Transformación** demostrando mis competencia
 - 📋 Documentación clara de casos de prueba y resultados
 - ⚡ Aplicación de mejores prácticas en QA
 
+👉 **[Ver detalles completos del proyecto en projects.md](./projects.md)**
+
 ---
 
 ## 🛠️ Mis Fortalezas como QA
@@ -94,6 +96,7 @@ Mi transición a QA no es un cambio de carrera, sino una **evolución natural** 
 
 - 🐙 [GitHub](https://github.com/irismoreno-qa)
 - 💻 [Mi Portafolio en GitHub](https://github.com/irismoreno-qa?tab=repositories)
+- 📖 [Mis Proyectos](./projects.md)
 
 ---
 
